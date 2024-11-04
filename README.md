@@ -98,11 +98,4 @@ GROUP BY product
 ---
 
 
-![Screenshot (1)](https://github.com/user-attachments/assets/65200f81-acbe-4056-b6aa-385cebb85708)
 
-![Screenshot (2)](https://github.com/user-attachments/assets/8ca9f6b8-fac1-4f50-ad99-ec45a9bb29aa)
-
-
-![Screenshot (3)](https://github.com/user-attachments/assets/0c5dcd01-f6f4-483e-9ee0-2677dfd7737d)
-
-![Screenshot (4)](https://github.com/user-attachments/assets/b7fbb70f-5772-4b35-b40f-0d017dbff2c7)
