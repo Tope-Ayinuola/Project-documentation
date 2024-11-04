@@ -60,7 +60,30 @@ This involves analysis data to give anwers to:
 ### Data Analysis
 ---
 
-This is where we include some basic lines of codes and visualization used during the analysis.
+This is where we include some basic lines of codes and visualization used during the analysis;
+
+```SQL
+
+Select product,Sum ([Sales_Amount])
+AS Sales_Amount
+FROM [dbo].[LITA Capstone Dataset]
+GROUP BY product
+ORDER BY SUM([Sales_Amount]) DESC;
+```
+
+```SQL
+
+SELECT product,
+sum(Quantity*[UnitPrice])AS
+Sales_Amount
+FROM [dbo].[LITA Capstone Dataset]
+GROUP BY product
+```
+
+### Data Visualization
+---
+
+
 
 
 
