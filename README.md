@@ -3,6 +3,20 @@
 ## Project Title: Rental store and Customer Segmentation for a Subscription Service
 ---
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
 ### Project Overview
 ---
 The Data analysis project is amied to generate insight into sales and customer performance analysis for a rental store and subscription service over the past years by analysing the various parameters in the data gathered. This data will help to make reasonable decisions which enables the documentation around the data.
@@ -84,7 +98,11 @@ GROUP BY product
 ---
 
 
+![Screenshot (1)](https://github.com/user-attachments/assets/65200f81-acbe-4056-b6aa-385cebb85708)
+
+![Screenshot (2)](https://github.com/user-attachments/assets/8ca9f6b8-fac1-4f50-ad99-ec45a9bb29aa)
 
 
+![Screenshot (3)](https://github.com/user-attachments/assets/0c5dcd01-f6f4-483e-9ee0-2677dfd7737d)
 
-
+![Screenshot (4)](https://github.com/user-attachments/assets/b7fbb70f-5772-4b35-b40f-0d017dbff2c7)
