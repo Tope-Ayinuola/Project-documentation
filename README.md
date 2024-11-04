@@ -1,6 +1,6 @@
 # Project-Documentation
 
-## Project Title: Rental store and Customer Segmentation for a Subscription Service
+## Project Title: Rental store Data and Customer Segmentation for a Subscription Service
 ---
 
 [Project Overview](#project-overview)
