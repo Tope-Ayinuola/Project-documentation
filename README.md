@@ -99,3 +99,11 @@ GROUP BY product
 
 
 
+![Screenshot (5)](https://github.com/user-attachments/assets/c3d428ff-c6ce-489f-8715-63695b9b991b)
+
+![Screenshot (2)](https://github.com/user-attachments/assets/2dc6e360-611b-4dab-b007-fc09c70b71d4)
+
+![Screenshot (3)](https://github.com/user-attachments/assets/d40d62db-152f-42f0-a4bd-fd9ad828c38b)
+
+![Screenshot (4)](https://github.com/user-attachments/assets/b96333ba-92df-426c-8536-1eaa6ffad852)
+
